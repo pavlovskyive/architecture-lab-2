@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
-	"log"
 )
 
 // ComputeHandler handles input io.Reader and output io.Writer for computation
